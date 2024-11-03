@@ -3,7 +3,7 @@ import pprint
 from game_analysis import get_player_games
 
 
-username = 'imonteij'
+username = '#ENTERYOURUSERNAME#'
 header = {"User-Agent": "My-Application/1.0"}
 
 
